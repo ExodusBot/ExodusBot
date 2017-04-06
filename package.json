@@ -47,7 +47,7 @@
     "opusscript": "0.0.3",
     "request": "2.81.0",
     "cheerio": "0.22.0",
-    "file-system": "2.2.2",
+    "file-system": "2.2.2"
   },
   "engines": {
     "npm": "4.4.4",
